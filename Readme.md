@@ -4,7 +4,7 @@
 
 > Vai Na Web
 
-Projeto construido do evento Next Level Week da Rocketseat.
+Projeto construido com os conhecimentos adiquiridos no curso.
 
 [Clique aqui para acessar](https://eltonobreza.github.io/site-filmes-marvel/)
 
